@@ -1,0 +1,26 @@
+header{
+    background-color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    height: 200px;
+    font-size: larger;
+}
+nav{
+    background-color: rgb(189, 44, 44);
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    height: 500px;
+    float: left;
+    width:15%;
+}
+a{
+    color: aliceblue;
+}
+article{
+float: right;
+width: 85%;
+text-align: center;
+background-color: rgb(196, 63, 63);
+height: 500px;
+}
